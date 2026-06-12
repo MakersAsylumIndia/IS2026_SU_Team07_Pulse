@@ -1,6 +1,6 @@
-﻿Name of the Material/Component,Quantity,Reference Link,Additional Note
-Oximeter,1,,
-EMG,1,,
-ESP 32,1,,
-RGB LEDs,9,,
-Jumper Cables,1,,
+﻿Name of the Material/Component,Quantity,Product Name,Additional Note
+Oximeter,1,Sensor - MAX30102,To measure the heartbeat of the user
+EMG,1,Sensor - Advance Technologies EMG Muscle Sensor V3.0,To capture human intention and monitor neuromuscular health
+ESP 32,1,MicroController - WROOM-32 WIFI ,To control the project
+RGB LEDs,9,LED - WS2812,To display the users condition through a pattern
+Jumper Cables,1,Wires - NA,To connect everything
